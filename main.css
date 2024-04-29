@@ -22,9 +22,10 @@ td {
 }
 
 div {
-	background-color: darkcyan;
-	text-align: right;
-}
+  background-color: blue;
+  text-align: right;
+ }
+ 
 
 tr:nth-child(odd) {
 	background-color: #f2f2f2;
